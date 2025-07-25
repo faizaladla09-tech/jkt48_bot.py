@@ -16,7 +16,7 @@ TWITTER_USER_ID = "351535962"
 
 # Ganti dengan ID Channel/Grup Telegram Anda (bisa didapat dari @userinfobot)
 # Awali dengan tanda minus (-) jika itu grup/channel
-TELEGRAM_CHAT_ID = "-https://t.me/jkt48info134"
+TELEGRAM_CHAT_ID = "-1002411982288"
 
 # Untuk menyimpan ID tweet terakhir agar tidak spam
 LAST_TWEET_ID = None
